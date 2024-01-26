@@ -1,5 +1,8 @@
 # Techno_India_MBA_2024
 
+* **GitHub Link:** https://github.com/toarnabtrainer/Techno_India_MBA_2024 or http://tinyurl.com/bdcv32m7
+* **MS-Teams Meeting Link:** https://tinyurl.com/2s3yxjnr
+
 **Python Download Link:**<br>
 **Anaconda Download Link:** <br>
 https://www.anaconda.com/products/distribution
