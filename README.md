@@ -35,18 +35,6 @@ https://www.onlinegdb.com/
 
 <hr>
 
-**Selenium Sample Classwork Project:**<br> 
-https://drive.google.com/drive/folders/19kPZUBzevRacCTadz-3O40waZFm_rqsU?usp=sharing
-
-<hr>
-
-**Before we start Python Coding with Selenium, participant should take following initiatives:**<br>
-* Make Chrome as your default browser
-* Download and install Anaconda and check Jupyter Lab is working fine in the Anaconda by running some sample Python codes
-* Login your class from your system (Desktop/Laptop) and not from your mobile
-  
-<hr>
-
 ### Features of Python
 Python is a popular high-level programming language that is used for various purposes such as web development, data analysis, artificial intelligence, scientific computing, and more. Some of the key features of Python include:
 
